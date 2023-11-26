@@ -1,0 +1,235 @@
+﻿country_noc,country,Country Code,mean_pop_last_10yr_mm
+AFG,Afghanistan,AFG,36.2947289
+ALB,Albania,ALB,2.8560173
+ALG,Algeria,DZA,41.4945058
+ASA,American Samoa,ASM,0.0487733
+AND,Andorra,AND,0.0749025
+ANG,Angola,AGO,30.7914802
+ANT,Antigua and Barbuda,ATG,0.0912746
+ARG,Argentina,ARG,44.2493134
+ARM,Armenia,ARM,2.8421878
+ARU,Aruba,ABW,0.1053015
+ANZ,Australasia,,
+AUS,Australia,AUS,24.6834082
+AUT,Austria,AUT,8.7838742
+AZE,Azerbaijan,AZE,9.8583007
+BRN,Bahrain,BHR,1.4195939
+BAN,Bangladesh,BGD,162.6563724
+BAR,Barbados,BRB,0.2793673
+BLR,Belarus,BLR,9.4030951
+BEL,Belgium,BEL,11.4066276
+BIZ,Belize,BLZ,0.3770285
+BEN,Benin,BEN,11.793723
+BER,Bermuda,BMU,0.0642821
+BHU,Bhutan,BTN,0.7576404
+BOH,Bohemia,,
+BOL,Bolivia,BOL,11.5072933
+BIH,Bosnia and Herzegovina,BIH,3.421768
+BOT,Botswana,BWA,2.4253313
+BRA,Brazil,BRA,209.0519655
+IVB,British Virgin Islands,VGB,0.0301075
+BRU,Brunei Darussalam,BRN,0.4314487
+BUL,Bulgaria,BGR,7.0148466
+BUR,Burkina Faso,BFA,20.1277058
+BDI,Burundi,BDI,11.4459884
+CAM,Cambodia,KHM,15.9070005
+CMR,Cameroon,CMR,24.7513231
+CAN,Canada,CAN,36.87079
+CPV,Cape Verde,,
+CAY,Cayman Islands,CYM,0.0639689
+CAF,Central African Republic,CAF,5.1004835
+CHA,Chad,TCD,15.4011467
+CHI,Chile,CHL,18.565778
+TPE,Chinese Taipei,,
+COL,Colombia,COL,48.9798846
+COM,Comoros,COM,0.7683981
+CGO,Congo,,
+COK,Cook Islands,,
+CRC,Costa Rica,CRI,5.0053269
+CIV,Côte d'Ivoire,,
+CRT,Crete,,
+CRO,Croatia,HRV,4.0930338
+CUB,Cuba,CUB,11.3086118
+CYP,Cyprus,CYP,1.2118527
+CZE,Czech Republic,CZE,10.5777949
+TCH,Czechoslovakia,,
+PRK,Democratic People's Republic of Korea,,
+COD,Democratic Republic of the Congo,,
+DEN,Denmark,DNK,5.7634112
+DJI,Djibouti,DJI,1.0478347
+DMA,Dominica,DMA,0.070807
+DOM,Dominican Republic,DOM,10.7013605
+GDR,East Germany,,
+ECU,Ecuador,ECU,16.8760158
+EGY,Egypt,EGY,102.534428
+ESA,El Salvador,SLV,6.2643247
+GEQ,Equatorial Guinea,GNQ,1.4696263
+ERI,Eritrea,ERI,3.4526422
+EST,Estonia,EST,1.323522
+SWZ,Eswatini,SWZ,1.1576671
+ETH,Ethiopia,ETH,109.8898098
+FSM,Federated States of Micronesia,,
+FIJ,Fiji,FJI,0.9195862
+FIN,Finland,FIN,5.5048103
+FRA,France,FRA,67.03075
+GAB,Gabon,GAB,2.158156
+GEO,Georgia,GEO,3.7208405
+GER,Germany,DEU,82.4755891
+GHA,Ghana,GHA,30.5251692
+GBR,Great Britain,GBR,65.9892858
+GRE,Greece,GRC,10.7569972
+GRN,Grenada,GRD,0.1213057
+GUM,Guam,GUM,0.1688368
+GUA,Guatemala,GTM,16.2109765
+GUI,Guinea,GIN,12.421537
+GBS,Guinea Bissau,,
+GUY,Guyana,GUY,0.7770667
+HAI,Haiti,HTI,10.932732
+HON,Honduras,HND,9.7055295
+HKG,"Hong Kong, China",HKG,7.36302
+HUN,Hungary,HUN,9.7894817
+ISL,Iceland,ISL,0.3494971
+IND,India,IND,1358.73166
+IOA,Individual Olympic Athletes,,
+INA,Indonesia,IDN,265.2708904
+IRQ,Iraq,IRQ,40.1046124
+IRL,Ireland,IRL,4.8453427
+IRI,Islamic Republic of Iran,IRN,84.3968707
+ISR,Israel,ISR,8.79818
+ITA,Italy,ITA,60.0474084
+JAM,Jamaica,JAM,2.8064304
+JPN,Japan,JPN,126.6421582
+JOR,Jordan,JOR,10.0548539
+KAZ,Kazakhstan,KAZ,18.1867224
+KEN,Kenya,KEN,49.4242161
+KSA,Kingdom of Saudi Arabia,SAU,34.316912
+KIR,Kiribati,KIR,0.1216949
+COR,Korea Team,,
+KOS,Kosovo,XKX,1.7911763
+KUW,Kuwait,KWT,4.112755
+KGZ,Kyrgyzstan,,
+LAO,Lao People's Democratic Republic,,
+LAT,Latvia,LVA,1.9395055
+LBN,Lebanon,LBN,5.9198043
+LES,Lesotho,LSO,2.1867289
+LBR,Liberia,LBR,4.8520129
+LBA,Libya,LBY,6.4184118
+LIE,Liechtenstein,LIE,0.038054
+LTU,Lithuania,LTU,2.8516004
+LUX,Luxembourg,LUX,0.5996841
+MAD,Madagascar,MDG,26.5458663
+MAW,Malawi,MWI,18.1635814
+MAL,Malaya,,
+MAS,Malaysia,MYS,32.1227702
+MDV,Maldives,MDV,0.473369
+MLI,Mali,MLI,19.690455
+MLT,Malta,MLT,0.477491
+MHL,Marshall Islands,MHL,0.0464446
+MTN,Mauritania,MRT,4.2248536
+MRI,Mauritius,MUS,1.2638081
+MEX,Mexico,MEX,122.9861686
+MIX,Mixed team,,
+MON,Monaco,MCO,0.036655
+MGL,Mongolia,MNG,3.1275214
+MNE,Montenegro,MNE,0.6210783
+MAR,Morocco,MAR,35.6823213
+MOZ,Mozambique,MOZ,29.0333917
+MYA,Myanmar,MMR,52.4492223
+NAM,Namibia,NAM,2.3856686
+NRU,Nauru,NRU,0.0117488
+NEP,Nepal,NPL,28.5769002
+NED,Netherlands,NLD,17.2025105
+AHO,Netherlands Antilles,,
+NZL,New Zealand,NZL,4.83012
+NFL,Newfoundland,,
+NCA,Nicaragua,NIC,6.5287404
+NIG,Niger,NER,22.2627791
+NGR,Nigeria,NGA,196.2225817
+NBO,North Borneo,,
+MKD,North Macedonia,MKD,2.0696934
+YAR,North Yemen,,
+NOR,Norway,NOR,5.2821683
+OMA,Oman,OMN,4.380174
+PAK,Pakistan,PAK,219.1911462
+PLW,Palau,PLW,0.0178879
+PLE,Palestine,,
+PAN,Panama,PAN,4.1241878
+PNG,Papua New Guinea,PNG,9.2119328
+PAR,Paraguay,PRY,6.3972934
+CHN,People's Republic of China,CHN,1394.5105
+PER,Peru,PER,31.9941508
+PHI,Philippines,PHL,107.6250394
+POL,Poland,POL,37.9131274
+POR,Portugal,PRT,10.3413505
+PUR,Puerto Rico,PRI,3.3486228
+QAT,Qatar,QAT,2.5689169
+EOR,Refugee Olympic Team,,
+KOR,Republic of Korea,KOR,51.3329325
+MDA,Republic of Moldova,,
+RHO,Rhodesia,,
+ROC,ROC,,
+ROU,Romania,ROU,19.5186684
+RUS,Russian Federation,RUS,144.0224949
+RWA,Rwanda,RWA,12.4025782
+SAA,Saar,,
+SKN,Saint Kitts and Nevis,,
+LCA,Saint Lucia,,
+VIN,Saint Vincent and the Grenadines,,
+SAM,Samoa,WSM,0.2096122
+SMR,San Marino,SMR,0.033788
+STP,São Tomé and Príncipe,,
+SEN,Senegal,SEN,15.4036183
+SRB,Serbia,SRB,6.9890649
+SCG,Serbia and Montenegro,,
+SEY,Seychelles,SYC,0.0957414
+SLE,Sierra Leone,SLE,7.7760236
+SGP,Singapore,SGP,5.5742064
+SVK,Slovakia,SVK,5.4364617
+SLO,Slovenia,SVN,2.0798403
+SOL,Solomon Islands,SLB,0.6521693
+SOM,Somalia,SOM,15.1675196
+RSA,South Africa,ZAF,57.1057911
+SSD,South Sudan,SSD,10.8348603
+VNM,South Vietnam,,
+YMD,South Yemen,,
+URS,Soviet Union,,
+ESP,Spain,ESP,46.8952087
+SRI,Sri Lanka,LKA,21.6369217
+SUD,Sudan,SDN,41.3425168
+SUR,Suriname,SUR,0.5910222
+SWE,Sweden,SWE,10.0786753
+SUI,Switzerland,CHE,8.4586491
+SYR,Syrian Arab Republic,SYR,20.2374781
+TJK,Tajikistan,TJK,9.0349057
+THA,Thailand,THA,70.8548543
+BAH,The Bahamas,,
+GAM,The Gambia,,
+TLS,Timor-Leste,TLS,1.2524511
+TOG,Togo,TGO,7.9607871
+TGA,Tonga,TON,0.1059189
+TTO,Trinidad and Tobago,TTO,1.4899022
+TUN,Tunisia,TUN,11.8547262
+TUR,Türkiye,,
+TKM,Turkmenistan,TKM,6.0073171
+TUV,Tuvalu,TUV,0.010978
+UGA,Uganda,UGA,40.9935298
+UKR,Ukraine,UKR,44.0685272
+EUN,Unified Team,,
+UAE,United Arab Emirates,ARE,9.1012645
+UAR,United Arab Republic,,
+TAN,United Republic of Tanzania,,
+USA,United States,USA,325.5377928
+ISV,United States Virgin Islands,,
+UNK,Unknown,,
+URU,Uruguay,URY,3.4145217
+UZB,Uzbekistan,UZB,32.7868
+VAN,Vanuatu,VUT,0.294262
+VEN,Venezuela,VEN,29.5655244
+VIE,Vietnam,VNM,94.3848834
+FRG,West Germany,,
+WIF,West Indies Federation,,
+YEM,Yemen,,
+YUG,Yugoslavia,,
+ZAM,Zambia,ZMB,17.5921699
+ZIM,Zimbabwe,ZWE,14.9160436
+ROC,Russian Olympic Committee,,144.1
